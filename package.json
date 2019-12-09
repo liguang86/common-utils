@@ -1,0 +1,14 @@
+{
+  "name": "common-utils",
+  "version": "0.1.0",
+  "description": "Vue项目中使用的公共方法",
+  "private": false,
+  "keyword": "common-utils",
+  "author": "liguang86@qq.com",
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "devDependencies": {}
+}
