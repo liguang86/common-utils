@@ -1,5 +1,5 @@
 {
-  "name": "common-utils",
+  "name": "@liguang/common-utils",
   "version": "0.1.0",
   "description": "Vue项目中使用的公共方法",
   "private": false,
@@ -10,5 +10,9 @@
   "dependencies": {
     "resize-observer-polyfill": "^1.5.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liguang86/common-utils.git"
+  }
 }
